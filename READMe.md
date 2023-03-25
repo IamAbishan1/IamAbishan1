@@ -6,7 +6,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabishan1&label=Profile%20views&color=0e75b6&style=flat" alt="iamabishan1" /> </p>
 
-- ⚡ Fun fact😃 **I am an Alien🛸**
+- ⚡ Fun fact😃 **I am not a Robot❌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
